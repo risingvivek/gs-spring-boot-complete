@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vivekkumar
+Build-Jdk: 9.0.1
+Implementation-Title: gs-spring-boot
+Implementation-Version: 1.0
+Implementation-Vendor-Id: quasys.co.uk
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/gs-spring-boot
+Created-By: Maven Integration for Eclipse
+
