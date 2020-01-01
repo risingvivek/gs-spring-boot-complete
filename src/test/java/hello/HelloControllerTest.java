@@ -22,5 +22,6 @@ public class HelloControllerTest {
     @Test
     public void getHello() throws Exception {
 
+    	System.out.println("Hello");
     }
 }
